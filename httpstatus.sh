@@ -2,7 +2,7 @@
 #
 # Gets the http status code for a given URL
 #
-# Author: Nikolas Schmidt-Voigt <n.schmidt-voigt@googlemail.com>
+# Author: Nikolas Schmidt-Voigt <nikolas.schmidt-voigt@dmc.de>
 
 SCRIPTNAME='httpstatus.sh'
 RESPONSEFILE='httpresponse.tmp~'

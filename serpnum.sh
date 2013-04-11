@@ -2,7 +2,7 @@
 #
 # Retrieves the number of search results for a given keyword
 #
-# Author: Nikolas Schmidt-Voigt <n.schmidt-voigt@googlemail.com>
+# Author: Nikolas Schmidt-Voigt <nikolas.schmidt-voigt@dmc.de>
 
 SCRIPTNAME=serpnum.sh
 
